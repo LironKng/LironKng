@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Liron
 
-<!--
-**LironKng/LironKng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering graduate focused on building efficient systems across hardware and software.
 
-Here are some ideas to get you started:
+## What I Work On
+- VLSI & RTL design  
+- Performance-driven C++ systems  
+- Algorithm development  
+- Hardware–software co-design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+C++ • Python • SystemVerilog • Git  
+
+## Interests
+Efficient architectures, scalable systems, and clean implementation from low-level design to high-level structure.
