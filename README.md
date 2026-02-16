@@ -1,4 +1,4 @@
-### Hi, I'm Liron
+### Hi, I'm Liron 👋
 
 Electrical Engineering graduate focused on building efficient systems across hardware and software.
 
